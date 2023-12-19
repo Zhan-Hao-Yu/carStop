@@ -1,5 +1,4 @@
 import App from './App'
-
 // #ifndef VUE3
 import Vue from 'vue'
 Vue.config.productionTip = false
@@ -9,7 +8,6 @@ const app = new Vue({
 })
 app.$mount()
 // #endif
-
 // #ifdef VUE3
 import { createSSRApp } from 'vue'
 export function createApp() {

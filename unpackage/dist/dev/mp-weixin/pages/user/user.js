@@ -1,12 +1,1 @@
-"use strict";
-var common_vendor = require("../../common/vendor.js");
-const _sfc_main = {
-  data() {
-    return {};
-  }
-};
-function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
-  return {};
-}
-var MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__file", "D:/Program Files/feiq/Recv Files/uniapp/carStop/carStop/pages/user/user.vue"]]);
-wx.createPage(MiniProgramPage);
+"use strict";const e=require("../../common/vendor.js"),n={data(){return{}}};Array||e.resolveComponent("uni-card")();const c=()=>"../../uni_modules/uni-card/components/uni-card/uni-card.js";Math||c();function a(r,o,t,s,_,i){return{a:e.p({title:"基础卡片",extra:"额外信息"})}}const u=e._export_sfc(n,[["render",a],["__file","D:/zhy/carStop/pages/user/user.vue"]]);wx.createPage(u);

@@ -1,8 +1,13 @@
 <template>
 	<view>
-		<uni-card title="基础卡片" extra="额外信息">
-						<text class="uni-body">这是一个基础卡片示例，此示例展示了一个标题加标题额外信息的标准卡片。</text>
-		</uni-card>
+		<div class="user-topContent">
+      <div class="user-title">
+
+      </div>
+      <div class="user-userMassage">
+        
+      </div>
+    </div>
 	</view>
 </template>
 
@@ -17,5 +22,14 @@
 </script>
 
 <style lang="scss">
-
+  .user-topContent{ 
+    width: 100%;
+    height: 13rem;
+    border: 1px solid red;
+  } 
+  .user-title{
+    height: 3rem;
+    border: 1px solid blue;
+    margin-top: 5rem; 
+  }
 </style>

@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),a={data(){return{userInfo:[{name:"积分",num:1245},{name:"优惠券",num:3},{name:"钱包",num:247}]}},methods:{}};function t(s,c,m,u,r,_){return{a:e.f(r.userInfo,(n,i,f)=>({a:e.t(n.name),b:n.num}))}}const o=e._export_sfc(a,[["render",t],["__file","D:/zhy/carStop/pages/Imagine/Imagine.vue"]]);wx.createPage(o);

@@ -14,6 +14,14 @@
                 "enablePullDownRefresh": false
             }
             
+        },
+        {
+        	"path" : "pages/Imagine/Imagine",
+        	"style" : 
+        	{
+        		"navigationBarTitleText" : "",
+        		"enablePullDownRefresh" : false
+        	}
         }
     ],
 	"globalStyle": {
@@ -42,6 +50,12 @@
 				"iconPath": "static/image/navbar/customs.png",
 				"selectedIconPath": "static/image/navbar/customs.png",
 				"text": "我的"
+			},
+			{
+				"pagePath": "pages/Imagine/Imagine",
+				"iconPath": "static/image/navbar/customs.png",
+				"selectedIconPath": "static/image/navbar/customs.png",
+				"text": "Imagine"
 			}]
 		},
 		"lazyCodeLoading":"requiredComponents"

@@ -1,0 +1,1 @@
+.topContent{border:1px solid red;height:13.44rem;width:100%}.topContent .imagine-title{height:3rem;margin-top:4rem;border:1px solid blue}.topContent .imagine-userInfo{height:3rem;margin-top:2rem;padding:0 1rem;border:1px solid black;display:flex;justify-content:space-between}.topContent .imagine-userInfo .userInfoItem{border:1px solid greenyellow;width:6rem;height:3rem}

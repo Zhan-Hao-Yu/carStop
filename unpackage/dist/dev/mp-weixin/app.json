@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/user/user"
+    "pages/user/user",
+    "pages/Imagine/Imagine"
   ],
   "window": {
     "navigationBarTextStyle": "black",
@@ -27,6 +28,12 @@
         "iconPath": "static/image/navbar/customs.png",
         "selectedIconPath": "static/image/navbar/customs.png",
         "text": "我的"
+      },
+      {
+        "pagePath": "pages/Imagine/Imagine",
+        "iconPath": "static/image/navbar/customs.png",
+        "selectedIconPath": "static/image/navbar/customs.png",
+        "text": "Imagine"
       }
     ]
   },

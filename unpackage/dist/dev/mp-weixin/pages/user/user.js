@@ -1,1 +1,1 @@
-"use strict";const e=require("../../common/vendor.js"),r={data(){return{}}};function t(n,s,o,a,_,u){return{}}const c=e._export_sfc(r,[["render",t],["__file","D:/zhy/carStop/pages/user/user.vue"]]);wx.createPage(c);
+"use strict";const e=require("../../common/vendor.js"),t={data(){return{topTitle:"智慧停车",threeArr:[{name:"积分",num:2},{name:"优惠券",num:3},{name:"钱包",num:2}]}}};function a(o,s,u,m,n,_){return{a:e.f(n.threeArr,(r,i,p)=>({a:e.t(r.num),b:e.t(r.name),c:r.name}))}}const c=e._export_sfc(t,[["render",a],["__file","D:/zhy/carStop/pages/user/user.vue"]]);wx.createPage(c);

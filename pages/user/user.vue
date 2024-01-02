@@ -11,8 +11,10 @@
         </div>
       </div>
       <div class="user-userMassage">
-        <div class="yt" v-for="item in threeArr" :key='item.name'>//for循环循环div
-          <p>{{item.num}}</p>//参照以下item设置
+				<!-- for循环循环div -->
+        <div class="yt" v-for="item in threeArr" :key='item.name'>
+          <!-- 参照以下item设置 -->
+					<p>{{item.num}}</p>
           <p>{{item.name}}</p>
         </div>
       </div>

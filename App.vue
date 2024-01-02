@@ -18,18 +18,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+		overflow: hidden;
   }
   div{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+		overflow: hidden;
   }
   page {
 		/*这里一定要设置，否则小程序会有问题 */
 		width: auto;
 		padding: 1rem 0;
 		box-sizing: border-box;
-		background-color: #EFF2F3;
+		background-color: white;
 	}
 
 </style>

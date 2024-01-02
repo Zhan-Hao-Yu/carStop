@@ -1,2 +1,2 @@
-view{margin:0;padding:0;box-sizing:border-box}div{margin:0;padding:0;box-sizing:border-box}page{width:auto;padding:1rem 0;box-sizing:border-box;background-color:#eff2f3}
+view{margin:0;padding:0;box-sizing:border-box;overflow:hidden}div{margin:0;padding:0;box-sizing:border-box;overflow:hidden}page{width:auto;padding:1rem 0;box-sizing:border-box;background-color:#fff}
 page{--status-bar-height:25px;--top-window-height:0px;--window-top:0px;--window-bottom:0px;--window-left:0px;--window-right:0px;--window-magin:0px}[data-c-h="true"]{display: none !important;}

@@ -1,1 +1,1 @@
-<view><view class="topContent"><view class="imagine-title"></view><view class="imagine-userInfo"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" class="userInfoItem">{{item.a}}</view></view></view></view>
+<view><view class="topContent"><view class="imagine-title"><uni-icons wx:if="{{a}}" u-i="72c30cea-0" bind:__l="__l" u-p="{{a}}"></uni-icons><label class="titleName">{{b}}</label></view><view class="imagine-userInfo"><view wx:for="{{c}}" wx:for-item="item" wx:key="c" class="userInfoItem"><view>{{item.a}}</view><view>{{item.b}}</view></view></view></view></view>
